@@ -20,7 +20,7 @@ public class Portefeuille {
    */
   public boolean transfertDevise (Portefeuille destination, double montantJetons){
       /**
-           FONCTION À IMPLEMENTER
+            Je n'aime pas le java
 	  **/
       return false;
   }
