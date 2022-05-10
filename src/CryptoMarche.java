@@ -32,6 +32,8 @@ public class CryptoMarche {
         return 0;
     }
 
+    /* SNK C BOF TIER */
+
     /**
      * Cette fonction recherche sur le marché tous les portefeuilles 
      * d'un type de devise et calcule le volume total de capital de 
