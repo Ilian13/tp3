@@ -43,3 +43,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 |------|------|------|
 |ilian|belmokhtar|19|
 |ozan|demir|18|
+
+![yeager.jpg](https://github.com/Ilian13/tp3/blob/main/images/yeager.jpg)
