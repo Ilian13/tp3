@@ -44,4 +44,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 |ilian|belmokhtar|19|
 |ozan|demir|18|
 
-![yeager.jpg](/images/yeager.jpg)
+![yeager.jpeg](/images/yeager.jpeg)
